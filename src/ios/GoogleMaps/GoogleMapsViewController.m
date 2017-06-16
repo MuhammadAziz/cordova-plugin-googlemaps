@@ -7,9 +7,9 @@
 //
 
 #import "GoogleMapsViewController.h"
-#if CORDOVA_VERSION_MIN_REQUIRED < __CORDOVA_4_0_0
-#import <Cordova/CDVJSON.h>
-#endif
+// #if CORDOVA_VERSION_MIN_REQUIRED < __CORDOVA_4_0_0
+// #import <Cordova/CDVJSON.h>
+// #endif
 
 
 @implementation GoogleMapsViewController
